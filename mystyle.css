@@ -1,0 +1,16 @@
+body {
+    background-color: #800020;
+}
+
+span {
+    color: #fff;
+}
+
+.gallery {
+    display: inline-flex;
+    border: 3px solid #000;
+    margin: 1px;
+    animation: fadeIn 1s ease-in-out;
+       
+
+}
